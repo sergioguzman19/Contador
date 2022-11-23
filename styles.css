@@ -7,16 +7,6 @@ body {
     visibility: visible;
 }
 
-#companing1 {
-    visibility: hidden;
-}
-#companing2 {
-    visibility: hidden;
-}
-
-#companing-dias1 {
-    visibility: hidden;
-}
-#companing-dias2 {
+#mainBlock {
     visibility: hidden;
 }
