@@ -13,13 +13,9 @@ let actual = new Date();
 
 function calculate() {
     // Calculate de difference.
-
     let dayInMs = 86400000;
-
     let diff = future - actual;
-
     let difDays = Math.round(diff / dayInMs);
-
     let difWeeks = Math.round(difDays / 7) ;
 
     // Populate the html.
