@@ -20,7 +20,7 @@ function calculate() {
 
     // Populate the html.
     load.style.visibility="hidden";
-    head.innerHTML = 'Para el dia F:';
+    head.innerHTML = 'Para el dia F';
     div.style.visibility='visible';
     weeks.innerHTML = difWeeks;
     days.innerHTML = difDays;
