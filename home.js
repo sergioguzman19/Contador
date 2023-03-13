@@ -8,7 +8,7 @@ div = document.getElementById('mainBlock');
 load.addEventListener('click', calculate);
 
 // Obtain the dates and time stamps. 
-let future = new Date('2023-12-01');
+let future = new Date('2024-04-30');
 let actual = new Date();
 
 function calculate() {
